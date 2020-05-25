@@ -5,5 +5,4 @@ Learn to Make Apps with SwiftUI
 
 | 章節(專案連結) | 學習內容 | 操作影片 |
 |---------|--------|-------------|
-|SwiftUI Essentials|
-Learn how to use SwiftUI to compose rich views out of simple ones, set up data flow, and build the navigation while watching it unfold in Xcode’s preview.|
+|SwiftUI Essentials|Learn how to use SwiftUI to compose rich views out of simple ones, set up data flow, and build the navigation while watching it unfold in Xcode’s preview.|
